@@ -1,10 +1,9 @@
 # twitter-bot
-Project about something
+Project about getting searched data from twitter using python.
 
 This project was made for a company.
 
-Privacy is required. So, I am not allowed to say anything.
-But you can check the project if you want.
-It's about some automation.
+Scraps the data from twitter without token or an api.
+Runs drive to open twitter, gets tweets and saving them.
 
 19.06.2021
